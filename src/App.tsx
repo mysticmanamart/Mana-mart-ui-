@@ -36,11 +36,11 @@ const App: React.FC = () => {
           <div className="socials">
             <span className="socials-label">Follow us:</span>
             <div className="socials-links">
-              <a href="https://www.facebook.com/share/1AEbGhN4g2/?mibextid=wwXIfr" className="social-link">
+              <a href="https://www.facebook.com/share/1AEbGhN4g2/?mibextid=wwXIfr" className="social-link" target="_blank" rel="noopener noreferrer">
                 Facebook
               </a>
               <a href="https://www.instagram.com/mysticmanamart?igsh=MTgwbmhkNzVlbm13cg%3D%3D&utm_source=qr
-" className="social-link">
+" className="social-link" target="_blank" rel="noopener noreferrer">
                 Instagram
               </a>
               {/* <a href="#" className="social-link">
