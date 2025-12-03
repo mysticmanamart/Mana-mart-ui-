@@ -25,7 +25,7 @@ const App: React.FC = () => {
             <strong>Contact Us:</strong>
             <br />
             <a
-              href="mailto:mysticmanamarket@gmail.com"
+              href="mailto:MysticManaMart@gmail.com"
               className="contact-email"
             >
               mysticmanamarket@gmail.com
