@@ -36,15 +36,16 @@ const App: React.FC = () => {
           <div className="socials">
             <span className="socials-label">Follow us:</span>
             <div className="socials-links">
-              <a href="#" className="social-link">
+              <a href="https://www.facebook.com/share/1AEbGhN4g2/?mibextid=wwXIfr" className="social-link">
                 Facebook
               </a>
-              <a href="#" className="social-link">
+              <a href="https://www.instagram.com/mysticmanamart?igsh=MTgwbmhkNzVlbm13cg%3D%3D&utm_source=qr
+" className="social-link">
                 Instagram
               </a>
-              <a href="#" className="social-link">
+              {/* <a href="#" className="social-link">
                 TikTok
-              </a>
+              </a> */}
             </div>
           </div>
         </main>
